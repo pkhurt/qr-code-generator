@@ -16,4 +16,4 @@ img = qr.make_image(fill='black', back_color='white')
 
 img.save("qrcode.png")
 
-print("QR-Code wurde erstellt und als 'qrcode.png' gespeichert.")
+print("QR-Code generated and saved as 'qrcode.png'.")
